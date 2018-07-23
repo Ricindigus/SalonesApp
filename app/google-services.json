@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6313642556",
+    "firebase_url": "https://salones-app.firebaseio.com",
+    "project_id": "salones-app",
+    "storage_bucket": "salones-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6313642556:android:a00cef1b4d5d3c52",
+        "android_client_info": {
+          "package_name": "pe.gob.inei.dmorales.salonesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6313642556-5mvpicchlebjhhoo5bfpik4on5u25hmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.gob.inei.dmorales.salonesapp",
+            "certificate_hash": "9df97ac86063d6ce6c2c2c8f8a94aa12656ec39e"
+          }
+        },
+        {
+          "client_id": "6313642556-nbchoq3j7jp55qfrlc771kcnvemtm313.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2x9wngJ6VlCKHnvlKa-ebNVfiNI_Qgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6313642556-nbchoq3j7jp55qfrlc771kcnvemtm313.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
